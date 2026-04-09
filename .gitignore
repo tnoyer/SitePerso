@@ -1,0 +1,47 @@
+# Build results
+bin/
+obj/
+[Rr]elease/
+[Dd]ebug/
+*.dll
+*.exe
+*.pdb
+*.appx
+*.appxbundle
+*.nupkg
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.sln.docstates
+*.userosscache
+*.sln.ide
+
+# NuGet
+*.nupkg
+packages/
+*.snupkg
+.nuget/
+
+# Rider IDE
+.idea/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Visual Studio Code
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Others
+TestResults/
